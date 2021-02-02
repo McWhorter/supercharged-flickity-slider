@@ -1,0 +1,29 @@
+{
+  "name": "responsive-slider",
+  "version": "1.0.0",
+  "description": "Slider component powered by the Flickity library with enhanced features and mobile responsiveness breakpoint support.",
+  "author": "Jason McWhorter",
+  "license": "ISC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Flickity",
+    "slider",
+    "responsive",
+    "autoplay",
+    "play",
+    "pause",
+    "support",
+    "animated",
+    "SVG",
+    "progress",
+    "loop"
+  ],
+  "devDependencies": {
+    "breakpoints-js": "^1.0.6",
+    "deepmerge": "^4.2.2",
+    "flickity": "^2.2.2"
+  }
+}
